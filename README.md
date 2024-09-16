@@ -4,14 +4,16 @@
 ## Main purposes
 <h3> 1. use machine learning methods to predict rolling wear </h3>
    
-* SVR, GPR, RFR, GBR
+* <h4>SVR, GPR, RFR, GBR</h4>
+* **
 
 <h3> 2. use matplotlib to visualize the rolling situation </h3>
 
 ## Tech: Flask, Vue2, Sklearn
 
 
-## Frontend Available [Here](http://114.55.87.45:2423)
-## Online Website [Here](https://github.com/Better-Ding/4DD_Project_front)
+## Frontend Available [Here](https://github.com/Better-Ding/4DD_Project_front)
+
+## Online Website [Here](http://114.55.87.45:2423)
 
 
