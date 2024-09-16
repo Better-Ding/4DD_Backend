@@ -10,6 +10,6 @@
 
 ## Tech: Flask, Vue2, Sklearn
 
-## Frontend Available <a herf="http://114.55.87.45:2423">Here</a>
-## Online Website <a herf="https://github.com/Better-Ding/4DD_Project_front">Here</a>
+## Frontend Available <a :herf="http://114.55.87.45:2423">Here</a>
+## Online Website <a :herf="https://github.com/Better-Ding/4DD_Project_front">Here</a>
 
