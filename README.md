@@ -5,9 +5,10 @@
 <h3> 1. use machine learning methods to predict rolling wear </h3>
    
 * <h4>SVR, GPR, RFR, GBR</h4>
-* **
 
 <h3> 2. use matplotlib to visualize the rolling situation </h3>
+
+***
 
 ## Tech: Flask, Vue2, Sklearn
 
